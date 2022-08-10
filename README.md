@@ -1,2 +1,2 @@
 # Medicinal-plants
-ERD, EERD, Relational Algebra and Queries
+Database ERD, EERD, Relational Algebra and Queries
